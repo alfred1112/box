@@ -3,15 +3,15 @@ package com.fju.ai;
 public class Box3 extends Box{
 //    public Box3(int length,int width,int height){
 //        super(length, width, height);
-//        length = 13;
-//        width = 10;
-//        height = 21;
+//        length =30;
+//        width = 30;
+//        height = 30;
 //
 //    }
 
 
     public Box3() {
-        super(13,10,21);
+        super(30,30,30);
     }
 
     public String toString(){
